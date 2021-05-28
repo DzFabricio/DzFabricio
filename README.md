@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DzFabricio
-- 👀 I’m interested in work on front-end
+- 👀 I’m interested in work on Front-End
 - 🌱 I’m currently learning ReactJs
 
 - 📫 How to reach me fabriciobrmu@gmail.com
